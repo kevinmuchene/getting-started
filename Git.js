@@ -6,7 +6,7 @@
  * Git is the most popular
  *
  *
- * VCS --> records our changes made over time and stores in a special database repository
+ * VCS --> records our changes made over time and stores in a special database repository --- master
  *
  * local repository -- machine
  *
